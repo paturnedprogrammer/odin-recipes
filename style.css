@@ -1,0 +1,40 @@
+h1 {
+    text-align: center;
+    font-size: 40px;
+}
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+li, h3, h4 {
+    font-family: 'Courier New', Courier, monospace;
+}
+p, h2 {
+    font-family: Tahoma;
+    text-align: center;
+}
+h2 {
+    font-size: 30px;
+    text-decoration: underline;
+}
+.recipes {
+    color: rgb(116, 47, 91);
+}
+.intro {
+    color:rgb(185, 39, 132);
+    margin-bottom: 5%;
+}
+.as {
+    color: rgb(229, 65, 6);
+}
+h4 {
+    font-weight: bold;
+}
+.penne {
+    color: rgb(9, 129, 9);
+}
+.brookies {
+    color: rgb(12, 90, 207);
+}
